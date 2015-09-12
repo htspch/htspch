@@ -1,0 +1,12 @@
+{
+  "name"         : "hatespeech",
+  "version"      : "0.0.1",
+  "description"  : "Report hatespeech in Facebook comments.",
+  "main"         : "index.js",
+  "author"       : "htspch",
+  "dependencies" : {
+    "fbgraph"    : "latest",
+    "mongoose"    : "latest",
+    "assert"    : "latest"
+  }
+}
